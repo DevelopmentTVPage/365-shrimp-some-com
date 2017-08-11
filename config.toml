@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "shrimp"
+baseURL = "https:\/\/shrimp.some.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758904"
+subfolder = ""
+cookiedomain = ""
